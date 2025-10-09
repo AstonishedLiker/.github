@@ -1,4 +1,4 @@
-![Profile Banner](../assets/banner.png)
+<img src="../assets/banner.png" alt="Profile Banner">
 
 ![Profile Views Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FAstonishedLiker&label=Profile+Views&icon=person-fill&color=%23198754&message=&style=for-the-badge&tz=UTC)
 
