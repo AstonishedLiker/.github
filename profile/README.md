@@ -22,7 +22,7 @@ Implements advanced control-flow and instruction-level transformations, with an 
 
 ### ⚛️ Fission
 *An upcoming Luau decompiler to assist in reverse-engineering.*
-Converts Luau bytecode back into human-readable source code, supporting modern Luau features and optimizations. Designed to aid in security research, code recovery, and understanding obfuscation techniques. Developed with [SecondNewtonLaw (Dottik)](https://github.com/SecondNewtonLaw/)
+Converts Luau bytecode back into human-readable source code, supporting modern Luau features and optimizations. Designed to aid in security research, code recovery, and understanding obfuscation techniques. Co-developed with [SecondNewtonLaw (Dottik)](https://github.com/SecondNewtonLaw/).
 
 ## 📫 Contact
 
