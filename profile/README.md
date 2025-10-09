@@ -26,5 +26,5 @@ Converts Luau bytecode back into human-readable source code, supporting modern L
 
 ## 📫 Contact
 
-- **LinkedIn:** [in/alexis-lecam](https://linkedin.com/in/alexis-lecam)
+- **LinkedIn:** [in/alexis-lecam-fr](https://linkedin.com/in/alexis-lecam-fr)
 - **GitHub:** You’re already here, feel free to explore!
