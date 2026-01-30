@@ -10,6 +10,13 @@ I aim to pursue a Master II through a *Grande École* pathway after preparatory 
 
 ## Projects
 
+### 🐍 [SnakePkg](https://github.com/AstonishedLiker/SnakePkg)
+> *The classic Snake game reimagined as a UEFI Application.*
+
+Implements a fully native UEFI graphical application using EDK II, featuring direct input handling, framebuffer rendering, and HII-based media integration.
+
+---
+
 ### 🏗️ [Solder](https://github.com/1suite/Solder)
 > *A Luau bundler for Roblox `.rbxm`/`.rbxmx` models.*
 
@@ -21,13 +28,6 @@ Combines scripts and folders into a single module, supports optional runtime mac
 > *A Proprietary Luau obfuscator designed for advanced software protection.*
 
 Implements advanced control-flow and instruction-level transformations, with an emphasis legitimate educational use, and strong architectural clarity.
-
----
-
-### ⚛️ Fission
-> *An upcoming Luau decompiler to assist in reverse-engineering.*
-
-Converts Luau bytecode back into human-readable source code, supporting modern Luau features and optimizations. Designed to aid in security research, code recovery, and understanding obfuscation techniques. Co-developed with [SecondNewtonLaw (Dottik)](https://github.com/SecondNewtonLaw/).
 
 ## Contact
 
